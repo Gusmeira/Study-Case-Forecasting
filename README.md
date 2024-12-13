@@ -1,4 +1,4 @@
-# Forecasting
+# Simple Study Case Forecasting
 
 This repository demonstrates a simple public forecasting case I developed using Object-Oriented Programming (OOP). 
 
